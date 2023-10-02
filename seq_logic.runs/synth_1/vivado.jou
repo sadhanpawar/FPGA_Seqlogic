@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1.1 (64-bit)
+# SW Build 3900603 on Fri Jun 16 19:30:25 MDT 2023
+# IP Build 3900379 on Sat Jun 17 05:28:05 MDT 2023
+# SharedData Build 3899622 on Fri Jun 16 03:34:24 MDT 2023
+# Start of session at: Wed Sep  6 20:41:06 2023
+# Process ID: 1046705
+# Current directory: /home/sadhanpawar/UTA/SOC/FPGA/seq_logic/seq_logic.runs/synth_1
+# Command line: vivado -log seq_logic.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source seq_logic.tcl
+# Log file: /home/sadhanpawar/UTA/SOC/FPGA/seq_logic/seq_logic.runs/synth_1/seq_logic.vds
+# Journal file: /home/sadhanpawar/UTA/SOC/FPGA/seq_logic/seq_logic.runs/synth_1/vivado.jou
+# Running On: sadhanpawar-ThinkPad-E14-Gen-4, OS: Linux, CPU Frequency: 1600.000 MHz, CPU Physical cores: 16, Host memory: 40911 MB
+#-----------------------------------------------------------
+source seq_logic.tcl -notrace
